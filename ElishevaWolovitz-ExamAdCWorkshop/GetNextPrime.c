@@ -1,6 +1,6 @@
-#include "GetNextPrime.h"
 #include <stdio.h>
 #include <stdbool.h>
+#include "GetNextPrime.h"
 
 /*
     Using static to make "private"
